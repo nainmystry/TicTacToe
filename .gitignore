@@ -1,0 +1,11 @@
+# Visual Studio build artifacts
+bin/
+obj/
+*.vshost.exe
+*.pdb
+*.suo
+*.user
+*.csproj.user
+*.sln.dotSettings
+*.sln.userprefs
+*.user
